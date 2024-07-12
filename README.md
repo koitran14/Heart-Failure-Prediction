@@ -1,6 +1,3 @@
-Sure! Here's an even more decorated and detailed `README.md` for your project:
-
-```markdown
 # 📊 Heart Failure Prediction - Exploratory Data Analysis (EDA) 🩺
 
 ![Heart](https://img.shields.io/badge/Heart%20Failure-EDA-blue)
@@ -34,7 +31,6 @@ To run this project, you need to have Python 3.8+ installed. Clone the repositor
 git clone https://github.com/yourusername/heart-failure-eda.git
 cd heart-failure-eda
 pip install -r requirements.txt
-```
 
 ---
 
