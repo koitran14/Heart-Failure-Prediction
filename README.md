@@ -28,9 +28,8 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a heart fa
 To run this project, you need to have Python 3.8+ installed. Clone the repository and install the required libraries using pip:
 
 ```bash
-git clone https://github.com/yourusername/heart-failure-eda.git
+git clone https://github.com/koitran14/heart-failure-eda.git
 cd heart-failure-eda
-pip install -r requirements.txt
 ```
 ---
 
@@ -70,9 +69,6 @@ The EDA process includes:
 
 ### ⚖️ Class Imbalance
 - Analyzing the imbalance in the target variable and addressing it using SMOTE.
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
 ---
 
 ## 🧠 Modeling
@@ -81,6 +77,7 @@ Various machine learning models were implemented and evaluated, including:
 - **Logistic Regression**
 - **K-Nearest Neighbors (KNN)**
 - **Support Vector Machine (SVM)**
+- **Decision Tree**
 - **Random Forest**
 - **CatBoost Classifier**
 
@@ -89,20 +86,6 @@ Hyperparameter tuning was performed using Optuna to improve model performance.
 ### 📊 Model Evaluation
 - Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 - Cross-validation was used to ensure robust performance metrics.
-
-![Model Comparison](images/model_comparison.png)
-
----
-
-## 📌 Conclusion
-Key findings from the EDA:
-
-- The dataset contains no missing values or duplicates.
-- Several attributes contain outliers.
-- There is an imbalance in the target variable.
-- No significant trends were found between the target and other attributes.
-
-The models were trained and evaluated to predict heart failure events, with Logistic Regression providing the best balance of precision and recall.
 
 ---
 
