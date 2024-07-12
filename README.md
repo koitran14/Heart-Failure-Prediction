@@ -46,8 +46,6 @@ The dataset used in this project is the Heart Failure Clinical Records Dataset f
 
 Exploratory Data Analysis (EDA) was performed to understand the distribution and relationships between features.
 
-![EDA Visualization](https://www.example.com/eda_visualization.png)
-
 ### Key Insights from EDA:
 - ✅ No missing values in the dataset.
 - 🚨 Presence of outliers in several clinical measurements.
