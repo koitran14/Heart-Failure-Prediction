@@ -5,12 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Colab](https://img.shields.io/badge/Google%20Colab-Enabled-orange)
 
----
-
 ## 🌟 Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a heart failure clinical records dataset to uncover patterns and insights, and to build predictive models.
-
----
 
 ## 📋 Table of Contents
 - [Installation](#installation)
@@ -22,7 +18,6 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a heart fa
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
----
 
 ## 🛠️ Installation
 To run this project, you need to have Python 3.8+ installed. Clone the repository and install the required libraries using pip:
@@ -31,7 +26,6 @@ To run this project, you need to have Python 3.8+ installed. Clone the repositor
 git clone https://github.com/koitran14/heart-failure-eda.git
 cd heart-failure-eda
 ```
----
 
 ## 📊 Data Description
 The dataset consists of 299 patients with 13 clinical features:
@@ -50,7 +44,7 @@ The dataset consists of 299 patients with 13 clinical features:
 - **time**: Follow-up period (days)
 - **DEATH_EVENT**: If the patient deceased during the follow-up period (Boolean)
 
----
+
 
 ## 🔍 Exploratory Data Analysis
 The EDA process includes:
@@ -67,7 +61,6 @@ The EDA process includes:
 
 ### ⚖️ Class Imbalance
 - Analyzing the imbalance in the target variable and addressing it using SMOTE.
----
 
 ## 🧠 Modeling
 Various machine learning models were implemented and evaluated, including:
@@ -85,12 +78,8 @@ Hyperparameter tuning was performed using Optuna to improve model performance.
 - Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 - Cross-validation was used to ensure robust performance metrics.
 
----
-
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgements
 Special thanks to the contributors of the libraries and tools used in this project, including:
@@ -103,7 +92,5 @@ Special thanks to the contributors of the libraries and tools used in this proje
 - imbalanced-learn
 - keras
 - optuna
-
----
 
 *Feel free to explore the project and contribute!*
