@@ -1,10 +1,5 @@
 # 📊 Heart Failure Prediction
 #### Artificial Intelligence Project
-
-![Heart](https://img.shields.io/badge/Heart%20Failure-EDA-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellowgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Colab](https://img.shields.io/badge/Google%20Colab-Enabled-orange)
  
 ![GitHub repo size](https://img.shields.io/github/repo-size/koitran14/Heart-Failure-Prediction)
 ![GitHub contributors](https://img.shields.io/github/contributors/koitran14/Heart-Failure-Prediction)
