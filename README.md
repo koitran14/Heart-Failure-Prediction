@@ -50,8 +50,6 @@ The dataset consists of 299 patients with 13 clinical features:
 - **time**: Follow-up period (days)
 - **DEATH_EVENT**: If the patient deceased during the follow-up period (Boolean)
 
-![Data Overview](images/data_overview.png)
-
 ---
 
 ## 🔍 Exploratory Data Analysis
