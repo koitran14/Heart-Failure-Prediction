@@ -1,4 +1,4 @@
-# 📊 Heart Failure Prediction - Exploratory Data Analysis (EDA) 🩺
+# 📊 Heart Failure Prediction
 
 ![Heart](https://img.shields.io/badge/Heart%20Failure-EDA-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-yellowgreen)
