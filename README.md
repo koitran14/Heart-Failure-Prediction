@@ -31,7 +31,7 @@ To run this project, you need to have Python 3.8+ installed. Clone the repositor
 git clone https://github.com/yourusername/heart-failure-eda.git
 cd heart-failure-eda
 pip install -r requirements.txt
-
+```
 ---
 
 ## 📊 Data Description
