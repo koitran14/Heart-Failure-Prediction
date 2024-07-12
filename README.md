@@ -109,8 +109,3 @@ Special thanks to the contributors of the libraries and tools used in this proje
 ---
 
 *Feel free to explore the project and contribute!*
-
-![Heart](https://img.icons8.com/ios-filled/50/000000/heart-with-pulse.png)
-```
-
-This version includes more decorative elements like emojis, icons, and section dividers to make the `README.md` visually appealing and easy to navigate.
