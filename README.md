@@ -77,21 +77,6 @@ Multiple machine learning models were tested and evaluated:
 
 Optuna was used for hyperparameter tuning to enhance the performance of the models.
 
-## 📈 Results
-
-The performance of the models was evaluated using accuracy, ROC AUC score, and other relevant metrics. The best model achieved an accuracy of **85%** and a ROC AUC score of **0.92**.
-
-| Model               | Accuracy | ROC AUC Score |
-|---------------------|----------|---------------|
-| Logistic Regression  | x%      | 0.92          |
-| KNN                 | x%      | x          |
-| SVM                 | x%      | x          |
-| Decision Tree       | x%      | x          |
-| Random Forest       | x%      | x          |
-| CatBoost            | x%      | x          |
-| ANN     | x%      | 0.xx         |
-| Naive Bayes         | x%      | 0.xx          |
-
 ## 📝 Conclusion
 
 The project successfully predicted heart failure events using various machine learning models. The CatBoost model demonstrated the best performance, showcasing the effectiveness of gradient boosting techniques for this problem.
