@@ -8,6 +8,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/koitran14/Heart-Failure-Prediction)
   
 </div>
+
 ## 📖 Overview
 
 This project aims to predict heart failure events based on a clinical dataset of patients. The project involves extensive data preprocessing, exploratory data analysis (EDA), and the implementation of several machine learning models to achieve optimal prediction performance. 
